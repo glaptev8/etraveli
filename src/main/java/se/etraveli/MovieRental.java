@@ -1,3 +1,5 @@
+package se.etraveli;
+
 public class MovieRental {
     private String movieId;
     private int days;

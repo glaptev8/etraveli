@@ -1,3 +1,5 @@
+package se.etraveli;
+
 import java.util.Arrays;
 
 public class Main {
